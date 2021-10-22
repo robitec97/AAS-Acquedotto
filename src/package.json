@@ -1,0 +1,16 @@
+{
+  "name": "centrale_avigliana",
+  "version": "1.0.0",
+  "description": "AAS of Centrale di Avigliana",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Roberto Pillitteri",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "node-opcua-coreaas": "^1.1.0"
+  }
+}
